@@ -1,0 +1,15 @@
+header {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    background-color: black;
+    color: white;
+    margin-bottom: 1.5rem;
+    box-shadow: 2px 2px 2px grey;
+    text-align: center;
+}
+
+#startgame {
+    margin-top: 10rem;
+    text-align: center;
+}

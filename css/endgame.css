@@ -1,0 +1,28 @@
+.gridelement {
+    margin-top: 20rem;
+    margin-left: 10rem;
+    position: absolute;
+    background-color: rgb(255, 255, 255, 255);
+    border: solid 1px black;
+    width: 40px;
+    height: 40px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#boardheader {
+    display: inline;
+    margin-left: 12rem;
+}
+
+#otherboardheader {
+    display: inline;
+    margin-left: 10rem;
+}
+
+#board {
+    margin-top: 15rem;
+}
